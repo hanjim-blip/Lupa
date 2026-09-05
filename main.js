@@ -7,7 +7,7 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://vt.tokopedia.com/t/ZS9Bq15Tg52yY-M5BbG/");
+    window.open("https://s.shopee.co.id/3Vk0N7YnVy");
 }
 
 function openFacebookPage() {
